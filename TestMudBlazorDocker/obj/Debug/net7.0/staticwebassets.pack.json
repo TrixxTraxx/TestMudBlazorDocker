@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "/home/trixxtraxx/RiderProjects/TestMudBlazorDocker/TestMudBlazorDocker/obj/Debug/net7.0/scopedcss/projectbundle/TestMudBlazorDocker.bundle.scp.css",
+      "PackagePath": "staticwebassets/TestMudBlazorDocker.bundle.scp.css"
+    },
+    {
+      "Id": "/home/trixxtraxx/RiderProjects/TestMudBlazorDocker/TestMudBlazorDocker/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/trixxtraxx/RiderProjects/TestMudBlazorDocker/TestMudBlazorDocker/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/trixxtraxx/RiderProjects/TestMudBlazorDocker/TestMudBlazorDocker/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/home/trixxtraxx/RiderProjects/TestMudBlazorDocker/TestMudBlazorDocker/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/home/trixxtraxx/RiderProjects/TestMudBlazorDocker/TestMudBlazorDocker/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/home/trixxtraxx/RiderProjects/TestMudBlazorDocker/TestMudBlazorDocker/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/home/trixxtraxx/RiderProjects/TestMudBlazorDocker/TestMudBlazorDocker/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/home/trixxtraxx/RiderProjects/TestMudBlazorDocker/TestMudBlazorDocker/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/home/trixxtraxx/RiderProjects/TestMudBlazorDocker/TestMudBlazorDocker/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/home/trixxtraxx/RiderProjects/TestMudBlazorDocker/TestMudBlazorDocker/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/home/trixxtraxx/RiderProjects/TestMudBlazorDocker/TestMudBlazorDocker/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/home/trixxtraxx/RiderProjects/TestMudBlazorDocker/TestMudBlazorDocker/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/trixxtraxx/RiderProjects/TestMudBlazorDocker/TestMudBlazorDocker/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.TestMudBlazorDocker.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.TestMudBlazorDocker.props",
+      "PackagePath": "build\\TestMudBlazorDocker.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.TestMudBlazorDocker.props",
+      "PackagePath": "buildMultiTargeting\\TestMudBlazorDocker.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.TestMudBlazorDocker.props",
+      "PackagePath": "buildTransitive\\TestMudBlazorDocker.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
